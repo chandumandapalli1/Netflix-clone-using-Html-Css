@@ -1,1 +1,1 @@
-# Netflix-clone-using-Html-C
+# Netflix-clone-using-Html-CSS
